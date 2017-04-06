@@ -7,13 +7,13 @@ gems:
 permalink:           pretty
 
 # Setup
-url:                 http://qwtel.com
+url:                 http://turingant.com
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
 baseurl:             /
 
-title:               Hydejack
+title:               turingant
 
 # Pagination
 paginate:            5
@@ -21,9 +21,8 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by [`@qwtel`{:style="background: rgba(255, 255, 255, 0.15)"}](https://twitter.com/qwtel)
-  from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+  A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by [`@Turing Ant`{:style="background: rgba(255, 255, 255, 0.15)"}](https://blog.csdn.net/turingant)
+  from [qwtel](https://qwtel.com).
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [jekyll, hyde]
