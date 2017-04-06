@@ -1,2 +1,1 @@
-# TURINGANT
-www.turingant.xyz
+turingant.xyz
